@@ -121,3 +121,38 @@ a.active,a:hover{
   color: blueviolet;
 
 }
+
+nav ul.show{
+  left:0;
+}
+
+}
+
+.search-box {
+  position: absolute;
+  top:4em;
+  left: 1em;
+  transform:translate(0,-100%);
+  background: white;
+  height:20px;
+  border-radius: 50px;
+  padding: 10px;
+ 
+}
+
+.search-box:hover>.search-txt{
+  width:240px;
+}
+
+
+.search-btn {
+  color:black;
+  float: right;
+  width:20px;
+  height:20px;
+  border-radius:50%;
+  background:white;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
