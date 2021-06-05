@@ -39,3 +39,44 @@ nav{
    padding: 8px;
    border-right: 10px;
  }
+
+ a.active,a:hover{
+  border: 1px solid white;
+  transition: .5s;
+ }
+
+ nav #icon {
+   color: white;
+   font-size: 30px;
+   line-height: 80px;
+   float: right;
+   margin-right: 40px;
+   cursor: pointer;
+   display: none;
+ }
+
+ .hero {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 30px;
+   width: 60%;
+   height: 25em;
+}
+
+
+ @media (max-width:1048px)
+ {  
+
+     \\add button;
+
+     nav ul{
+       margin-right: 20px;
+
+     }
+     nav a{
+       font-size:17px;
+     }
+
+    
+ }
