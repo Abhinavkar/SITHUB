@@ -1,0 +1,41 @@
+
+*{
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style: none;
+  box-s
+
+}
+body{
+  font-family: montrserrat;
+}
+nav{
+  height: 80px;
+  width: 100%;
+  background: #28282B;
+  margin-top: -3.2em;
+  
+
+}
+ nav ul{
+   float: right;
+   margin-right: 40px;
+
+ }
+
+ nav li{
+   display: inline-block;
+   margin:0 8px;
+   line-height: 80px; 
+ }
+
+ nav a{
+   color: white;
+   font-size:18px;
+   letter-spacing: 3px;
+   text-transform: uppercase;
+   border: 1px  transparent;
+   padding: 8px;
+   border-right: 10px;
+ }
