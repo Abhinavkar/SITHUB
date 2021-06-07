@@ -4,7 +4,6 @@
   margin: 0;
   text-decoration: none;
   list-style: none;
-  box-s
 
 }
 body{
@@ -68,7 +67,7 @@ nav{
  @media (max-width:1048px)
  {  
 
-     \\add button;
+     /*addbutton*/
 
      nav ul{
        margin-right: 20px;
