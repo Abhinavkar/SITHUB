@@ -25,7 +25,10 @@ body{
 	left: 0;
 	right: 0;
 	cursor: pointer;
+	/*yaha yar transition kese add karte  */
 	transition: transform 0.4s ease;
+	yaha tran
+
 
 }
 #s1:checked ~#slide4, #s2:checked ~#slide5,
