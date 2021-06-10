@@ -25,7 +25,12 @@ body{
 	left: 0;
 	right: 0;
 	cursor: pointer;
-	transition-duration: 0.4s ease;
+	transition: transform 0.4s ease;
 
 }
-#s1:checked~
+#s1:checked ~#slide4, #s2:checked ~#slide5,
+#s3:checked ~#slide1, #s4:checked ~#slide2,
+#s5:checked ~#slide3 {
+	box-shadow: 0 1px 4px 0 rgba(0,0,0,.37);
+	transform: translate3d(-30%,0,-200px,);
+}
