@@ -7,3 +7,24 @@ body{
 	background: #eee;
 	user-select: none;
 }
+[type=radio]{
+	display: none;
+}
+#slide{
+	height: 35vw;
+	position: relative;
+	perspective: 1000px;
+	transform-style:preserve-3d ;
+}
+#slider label{
+	margin: auto;
+	width: 60%;
+	height: 100%;
+	border-radius: 4px;
+	position: absolute;
+	left: 0;
+	right: 0;
+	cursor: pointer;
+	transition: transform ;
+
+}
