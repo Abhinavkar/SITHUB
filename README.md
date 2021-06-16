@@ -13,9 +13,7 @@
 4. USE ANY KIND OF TEXT EDITOR TO OPEN IR FOR EX> VS CODE AND USE LOCAL SERVER .
 ```
 >B. YOU CAN CLONE THROUGH GIT BASH  
-``` 
-
-	
+``` 	
 >> git clone https://github.com/Abhinavkar/SITHUB.git
  ```
  > <H2> WHAT IS SITHUB</H2>
