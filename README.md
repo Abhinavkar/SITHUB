@@ -16,7 +16,7 @@
 ``` 
 1. YOU CAN CLONE THROUGH GIT BASH BY TYPING 
 	
->> git clone https://github.com/Abhinavkar/SITHUB.git
+>> ```git clone https://github.com/Abhinavkar/SITHUB.git```
  ```
  > <H2> WHAT IS SITHUB</H2>
 	 IT IS A PLACE WHERE YOU FIND EVERTHING ABOUT SILICON LIKE 
